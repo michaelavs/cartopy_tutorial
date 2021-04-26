@@ -19,3 +19,4 @@ dependencies:
   - pip
   - scikit-learn
   - wrf-python
+  - xarray=0.17.0
